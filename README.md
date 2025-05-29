@@ -1,3 +1,6 @@
+## Developed by: Senthil Raj
+## RegisterNumber: 212224100054
+
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
